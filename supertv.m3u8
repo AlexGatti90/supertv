@@ -1,0 +1,36 @@
+#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml" url-tvg="https://i.mjh.nz/Plex/all.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml" x-tvg-url="http://195.154.221.171/epg/guideiran.xml"
+
+### Editor: ALEX GATTI
+
+############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ##############
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="Brasil: notícias em português",Bloomberg - inglês e português | Brasil
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cbn.br" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN RJ | Brasil
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:-1 tvg-id="Cbn.br" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN SP | Brasil
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://i.imgur.com/5AK7gLc.png" tvg-shift="0" group-title="Brasil: notícias em português",CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ivAljtT.png" tvg-shift="0" group-title="Brasil: notícias em português",CNN Portugal - 480p
+https://video-auth1.iol.pt/live_cnn/live_cnn/edge_servers/cnn-480p/chunks.m3u8?nimblesessionid=779947132&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIyIDU6MjQ6MSBQTSZoYXNoX3ZhbHVlPXZQK0thUzljaks0cmxvandoc1JJUEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02NjU3NzNkZS04YjA3LTQwMjAtYTM3OS0yZDI5MDZmMmVmYzI=
+
+#EXTINF:-1 tvg-id="EuronewsPT.nws" tvg-logo="https://i.imgur.com/kQ1EG3u.png" tvg-shift="0" group-title="Brasil: notícias em português",Euronews - Samsung | Portugal
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="619e6614c9d9650007a2b171" tvg-logo="https://i.imgur.com/kQ1EG3u.png" tvg-shift="0" group-title="Brasil: notícias em português",Euronews - Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f6-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=08cb0a01-f00b-498f-878b-0a06e2eeab1f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="https://imgur.com/DCY9fZm.png" group-title="Brasil: notícias em português",Jovem Pan | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSi
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="https://imgur.com/iC5UoAN.png" tvg-shift="0" group-title="Brasil: notícias em português",Record News | Brasil
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News - Pluto TV | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&
+
